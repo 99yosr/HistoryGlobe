@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14547264588",
+    "project_id": "historyglobe-504bf",
+    "storage_bucket": "historyglobe-504bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14547264588:android:ad60ced08bf851376940e9",
+        "android_client_info": {
+          "package_name": "com.example.history_globe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAt8QYgrGL_PO8zO4bN1keUqRos_l1ZGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
