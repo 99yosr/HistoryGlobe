@@ -2,7 +2,7 @@
 
 > Explore world history on an interactive 3D globe, with AI-powered summaries and quizzes.
 
-**HistoryVerse** (`history_globe`) is a cross-platform **Flutter** app that turns history into something you explore. Spin a 3D globe, tap a country, and travel through its historical **periods**, key **events** and important **figures**. An AI backend summarizes events and generates quizzes from them, and your quiz scores are saved so you can follow your progress.
+**HistoryGlobe** (`history_globe`) is a cross-platform **Flutter** app that turns history into something you explore. Spin a 3D globe, tap a country, and travel through its historical **periods**, key **events** and important **figures**. An AI backend summarizes events and generates quizzes from them, and your quiz scores are saved so you can follow your progress.
 
 ---
 
