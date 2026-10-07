@@ -1,4 +1,4 @@
-# 🌍 HistoryVerse
+# 🌍 HistoryGlobe
 
 > Explore world history on an interactive 3D globe, with AI-powered summaries and quizzes.
 
